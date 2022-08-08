@@ -8,4 +8,4 @@ disciplina de **pensamento computacional**
 
 desenvolvimento de site nas linguagens HTML e CSS
 
-estudante ; vanessa bunazeli nº26
+estudante ; vanessa bunazeli nº26 
