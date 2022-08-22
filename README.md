@@ -1,5 +1,5 @@
 # barao-1A-pensamento-computacional
-## site em HDML e CSS
+## site em HTML e CSS
 
 ### colegio estadual barao do rio branco
 disciplina de **pensamento computacional**
